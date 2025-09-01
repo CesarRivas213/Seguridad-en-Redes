@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/03-Warmed Up.md",
+                "file": "PicoCTF/01 - General skills/04-Bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Warmed Up"
+              "title": "04-Bases"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/02-2Warm.md",
+                "file": "PicoCTF/01 - General skills/03-Warmed Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-2Warm"
+              "title": "03-Warmed Up"
             }
           }
         ]
@@ -183,13 +183,14 @@
   },
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
-    "PicoCTF/01 - General skills/02-2Warm.md",
     "PicoCTF/01 - General skills/03-Warmed Up.md",
     "PicoCTF/01 - General skills/01-Lets warm up.md",
+    "PicoCTF/01 - General skills/04-Bases.md",
+    "PicoCTF/01 - General skills/02-2Warm.md",
+    "README.md",
     "PicoCTF/Untitled.md",
     "PicoCTF/01 - General skills",
     "Untitled.md",
-    "README.md",
     "Untitled",
     "Untitled.base",
     "Untitled.canvas",
