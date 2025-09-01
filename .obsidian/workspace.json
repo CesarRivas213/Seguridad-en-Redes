@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/09-Glitch cat.md",
+                "file": "PicoCTF/01 - General skills/10-Nice netcat....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-Glitch cat"
+              "title": "10-Nice netcat..."
             }
           },
           {
@@ -183,8 +183,9 @@
   },
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
-    "PicoCTF/01 - General skills/08-plumbing.md",
     "PicoCTF/01 - General skills/09-Glitch cat.md",
+    "PicoCTF/01 - General skills/10-Nice netcat....md",
+    "PicoCTF/01 - General skills/08-plumbing.md",
     "PicoCTF/01 - General skills/03-Warmed Up.md",
     "PicoCTF/01 - General skills/07-what's a new cat.md",
     "PicoCTF/01 - General skills/06-Obedient Cat.md",
