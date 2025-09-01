@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/12-strings it.md",
+                "file": "PicoCTF/01 - General skills/13-Wave a flag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-strings it"
+              "title": "13-Wave a flag"
             }
           }
         ]
@@ -169,8 +169,9 @@
   },
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
-    "PicoCTF/01 - General skills/11-Based.md",
     "PicoCTF/01 - General skills/12-strings it.md",
+    "PicoCTF/01 - General skills/13-Wave a flag.md",
+    "PicoCTF/01 - General skills/11-Based.md",
     "PicoCTF/01 - General skills/01-Lets warm up.md",
     "PicoCTF/01 - General skills/10-Nice netcat....md",
     "PicoCTF/01 - General skills/09-Glitch cat.md",
