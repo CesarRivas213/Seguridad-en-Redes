@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/04-Bases.md",
+                "file": "PicoCTF/01 - General skills/05-First Grep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Bases"
+              "title": "05-First Grep"
             }
           },
           {
@@ -184,8 +184,9 @@
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
     "PicoCTF/01 - General skills/03-Warmed Up.md",
-    "PicoCTF/01 - General skills/01-Lets warm up.md",
+    "PicoCTF/01 - General skills/05-First Grep.md",
     "PicoCTF/01 - General skills/04-Bases.md",
+    "PicoCTF/01 - General skills/01-Lets warm up.md",
     "PicoCTF/01 - General skills/02-2Warm.md",
     "README.md",
     "PicoCTF/Untitled.md",
