@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/06-Obedient Cat.md",
+                "file": "PicoCTF/01 - General skills/07-what's a net cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-Obedient Cat"
+              "title": "07-what's a net cat"
             }
           },
           {
@@ -184,6 +184,7 @@
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
     "PicoCTF/01 - General skills/03-Warmed Up.md",
+    "PicoCTF/01 - General skills/07-what's a net cat.md",
     "PicoCTF/01 - General skills/06-Obedient Cat.md",
     "PicoCTF/01 - General skills/05-First Grep.md",
     "PicoCTF/01 - General skills/04-Bases.md",
