@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/13-Wave a flag.md",
+                "file": "PicoCTF/01 - General skills/14-Static ain't always noise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13-Wave a flag"
+              "title": "14-Static ain't always noise"
             }
           }
         ]
@@ -169,10 +169,13 @@
   },
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
-    "PicoCTF/01 - General skills/12-strings it.md",
-    "PicoCTF/01 - General skills/13-Wave a flag.md",
-    "PicoCTF/01 - General skills/11-Based.md",
+    "README.md",
+    "PicoCTF/01 - General skills/14-Static ain't always noise.md",
+    "PicoCTF/01 - General skills/02-2Warm.md",
     "PicoCTF/01 - General skills/01-Lets warm up.md",
+    "PicoCTF/01 - General skills/13-Wave a flag.md",
+    "PicoCTF/01 - General skills/12-strings it.md",
+    "PicoCTF/01 - General skills/11-Based.md",
     "PicoCTF/01 - General skills/10-Nice netcat....md",
     "PicoCTF/01 - General skills/09-Glitch cat.md",
     "PicoCTF/01 - General skills/08-plumbing.md",
@@ -181,8 +184,6 @@
     "PicoCTF/01 - General skills/06-Obedient Cat.md",
     "PicoCTF/01 - General skills/05-First Grep.md",
     "PicoCTF/01 - General skills/04-Bases.md",
-    "PicoCTF/01 - General skills/02-2Warm.md",
-    "README.md",
     "PicoCTF/Untitled.md",
     "PicoCTF/01 - General skills",
     "Untitled.md",
