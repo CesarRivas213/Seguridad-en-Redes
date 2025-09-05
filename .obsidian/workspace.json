@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/17-Magikarp Ground Mission.md",
+                "file": "PicoCTF/01 - General skills/18-repetitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17-Magikarp Ground Mission"
+              "title": "18-repetitions"
             }
           }
         ]
@@ -170,6 +170,7 @@
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
     "README.md",
+    "PicoCTF/01 - General skills/18-repetitions.md",
     "PicoCTF/01 - General skills/17-Magikarp Ground Mission.md",
     "PicoCTF/01 - General skills/16-Tab, Tab, Attack.md",
     "PicoCTF/01 - General skills/15-useless.md",
