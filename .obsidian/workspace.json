@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/22-runme.py.md",
+                "file": "PicoCTF/01 - General skills/23-codebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22-runme.py"
+              "title": "23-codebook"
             }
           }
         ]
@@ -169,8 +169,9 @@
   },
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
-    "PicoCTF/01 - General skills/22-runme.py.md",
     "README.md",
+    "PicoCTF/01 - General skills/23-codebook.md",
+    "PicoCTF/01 - General skills/22-runme.py.md",
     "PicoCTF/01 - General skills/21-Super SSH.md",
     "PicoCTF/01 - General skills/Untitled 1.md",
     "PicoCTF/01 - General skills/20-First Find.md",
@@ -194,7 +195,6 @@
     "PicoCTF/01 - General skills/07-what's a new cat.md",
     "PicoCTF/01 - General skills/06-Obedient Cat.md",
     "PicoCTF/01 - General skills/05-First Grep.md",
-    "PicoCTF/01 - General skills/04-Bases.md",
     "PicoCTF/01 - General skills",
     "Untitled",
     "Untitled.base",
