@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/26-fixme2.py.md",
+                "file": "PicoCTF/01 - General skills/27-PW Crack 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26-fixme2.py"
+              "title": "27-PW Crack 1"
             }
           }
         ]
@@ -170,6 +170,7 @@
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
     "README.md",
+    "PicoCTF/01 - General skills/27-PW Crack 1.md",
     "PicoCTF/01 - General skills/26-fixme2.py.md",
     "PicoCTF/01 - General skills/25-fixme1.py.md",
     "PicoCTF/01 - General skills/24-convertme.py.md",
@@ -194,7 +195,6 @@
     "PicoCTF/01 - General skills/10-Nice netcat....md",
     "PicoCTF/01 - General skills/09-Glitch cat.md",
     "PicoCTF/01 - General skills/08-plumbing.md",
-    "PicoCTF/01 - General skills/03-Warmed Up.md",
     "PicoCTF/01 - General skills",
     "Untitled",
     "Untitled.base",
