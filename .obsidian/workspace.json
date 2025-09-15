@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 1 - General skills/3 - special.md",
+                "file": "PicoCTF/Tarea 1 - General skills/4 - committee issue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - special"
+              "title": "4 - committee issue"
             }
           }
         ]
@@ -170,6 +170,7 @@
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
     "README.md",
+    "PicoCTF/Tarea 1 - General skills/4 - committee issue.md",
     "PicoCTF/Tarea 1 - General skills/3 - special.md",
     "PicoCTF/Tarea 1 - General skills/2 - chrono.md",
     "PicoCTF/Tarea 1 - General skills/1 - permissions.md",
@@ -195,7 +196,6 @@
     "Untitled.md",
     "PicoCTF/01 - General skills/14-Static ain't always noise.md",
     "PicoCTF/01 - General skills/02-2Warm.md",
-    "PicoCTF/01 - General skills/01-Lets warm up.md",
     "PicoCTF/01 - General skills",
     "Untitled",
     "Untitled.base",
