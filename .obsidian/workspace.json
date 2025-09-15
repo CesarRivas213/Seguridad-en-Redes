@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General skills/30-Serpentine.md",
+                "file": "PicoCTF/Tarea 1 - General skills/1 - permissions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30-Serpentine"
+              "title": "1 - permissions"
             }
           }
         ]
@@ -170,7 +170,9 @@
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
     "README.md",
+    "PicoCTF/Tarea 1 - General skills/1 - permissions.md",
     "PicoCTF/01 - General skills/30-Serpentine.md",
+    "PicoCTF/Tarea 1 - General skills",
     "PicoCTF/01 - General skills/29-PW Crack 3.md",
     "PicoCTF/01 - General skills/28-PW Crack 2.md",
     "PicoCTF/01 - General skills/27-PW Crack 1.md",
@@ -194,7 +196,6 @@
     "PicoCTF/01 - General skills/01-Lets warm up.md",
     "PicoCTF/01 - General skills/13-Wave a flag.md",
     "PicoCTF/01 - General skills/12-strings it.md",
-    "PicoCTF/01 - General skills/11-Based.md",
     "PicoCTF/01 - General skills",
     "Untitled",
     "Untitled.base",
