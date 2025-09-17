@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Actividad 08 - picoCTF Web 1/where are the robots.md",
+                "file": "PicoCTF/Actividad 08 - picoCTF Web 1/logon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "where are the robots"
+              "title": "logon"
             }
           }
         ]
@@ -169,8 +169,9 @@
   },
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
-    "README.md",
     "PicoCTF/Actividad 08 - picoCTF Web 1/where are the robots.md",
+    "README.md",
+    "PicoCTF/Actividad 08 - picoCTF Web 1/logon.md",
     "PicoCTF/Actividad 08 - picoCTF Web 1/Insp3ct0r.md",
     "PicoCTF/Tarea 1 - General skills/8 - binary search.md",
     "PicoCTF/Actividad 08 - picoCTF Web 1",
@@ -196,7 +197,6 @@
     "PicoCTF/01 - General skills/20-First Find.md",
     "PicoCTF/01 - General skills/19-Big zip.md",
     "PicoCTF/01 - General skills/18-repetitions.md",
-    "PicoCTF/01 - General skills/17-Magikarp Ground Mission.md",
     "PicoCTF/01 - General skills",
     "Untitled",
     "Untitled.base",
