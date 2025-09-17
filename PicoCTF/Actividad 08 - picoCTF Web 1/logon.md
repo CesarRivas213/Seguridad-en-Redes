@@ -7,5 +7,8 @@ picoCTF{th3_c0nsp1r4cy_l1v3s_d1c24fef}
 ## Notas Adicionales
 
 instalar cookie-editor , desde ahi puedes adminitrar los permisos, 
+
+Otra Opcion
+curl -X GET https://jupiter.challenges.picoctf.org/problem/13594/flag -H "Cookie: username=admin; password=admin; admin=True"
 ## Referencias
 Cookie editor
