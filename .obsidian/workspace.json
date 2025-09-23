@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Actividad 09 - picoCTF Web 2/Cookies.md",
+                "file": "PicoCTF/Actividad 09 - picoCTF Web 2/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cookies"
+              "title": "Scavenger Hunt"
             }
           }
         ]
@@ -170,6 +170,7 @@
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
     "README.md",
+    "PicoCTF/Actividad 09 - picoCTF Web 2/Scavenger Hunt.md",
     "PicoCTF/Actividad 09 - picoCTF Web 2/Cookies.md",
     "PicoCTF/Actividad 09 - picoCTF Web 2/GET aHEAD.md",
     "PicoCTF/Actividad 08 - picoCTF Web 1/Client-side-again.md",
@@ -199,7 +200,6 @@
     "PicoCTF/01 - General skills/25-fixme1.py.md",
     "PicoCTF/01 - General skills/24-convertme.py.md",
     "PicoCTF/01 - General skills/23-codebook.md",
-    "PicoCTF/01 - General skills/22-runme.py.md",
     "PicoCTF/01 - General skills",
     "Untitled.base",
     "Untitled.canvas",
