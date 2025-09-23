@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Actividad 08 - picoCTF Web 1/Client-side-again.md",
+                "file": "PicoCTF/Actividad 09 - picoCTF Web 2/GET aHEAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Client-side-again"
+              "title": "GET aHEAD"
             }
           }
         ]
@@ -170,7 +170,11 @@
   "active": "186e1055d6a6c100",
   "lastOpenFiles": [
     "README.md",
+    "PicoCTF/Actividad 09 - picoCTF Web 2/GET aHEAD.md",
     "PicoCTF/Actividad 08 - picoCTF Web 1/Client-side-again.md",
+    "PicoCTF/Actividad 09 - picoCTF Web 2",
+    "PicoCTF/Actividad 08 - picoCTF Web 1/Untitled",
+    "Untitled",
     "PicoCTF/Actividad 08 - picoCTF Web 1/picobrowser.md",
     "PicoCTF/Actividad 08 - picoCTF Web 1/dont-use-client-side.md",
     "PicoCTF/Actividad 08 - picoCTF Web 1/logon.md",
@@ -196,17 +200,13 @@
     "PicoCTF/01 - General skills/23-codebook.md",
     "PicoCTF/01 - General skills/22-runme.py.md",
     "PicoCTF/01 - General skills/21-Super SSH.md",
-    "PicoCTF/01 - General skills/Untitled 1.md",
     "PicoCTF/01 - General skills",
-    "Untitled",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 1",
     "PicoCTF",
     "Untitled 2.canvas",
     "Untitled 3.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
     "Untitled 1.canvas"
   ]
 }
