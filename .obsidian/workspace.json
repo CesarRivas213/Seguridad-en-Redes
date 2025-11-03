@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee6ed59d0f77873f",
+        "id": "4a8290e78878339e",
         "type": "tabs",
         "children": [
           {
-            "id": "186e1055d6a6c100",
+            "id": "171239a4f2214dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensic 2/3 - c0rrupt.md",
+                "file": "PicoCTF/Tarea 4 - Crypto/Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - c0rrupt"
+              "title": "Vigenere"
             }
           }
         ]
@@ -167,14 +167,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "186e1055d6a6c100",
+  "active": "171239a4f2214dbf",
   "lastOpenFiles": [
+    "PicoCTF/Tarea 4 - Crypto/substitution2.md",
+    "PicoCTF/Tarea 4 - Crypto/substitution1.md",
+    "PicoCTF/Tarea 4 - Crypto/substitution0.md",
+    "PicoCTF/Tarea 4 - Crypto/rail-fence.md",
+    "PicoCTF/Tarea 4 - Crypto/morse-code.md",
+    "PicoCTF/Tarea 4 - Crypto/hashcrack.md",
+    "PicoCTF/Tarea 4 - Crypto/EVEN RSA CAN BE BROKEN.md",
+    "PicoCTF/Tarea 4 - Crypto/credstuff.md",
+    "PicoCTF/Tarea 4 - Crypto/Crack the Power.md",
+    "PicoCTF/Tarea 4 - Crypto/Vigenere.md",
+    "README.md",
+    "PicoCTF/Forensic 2/3 - c0rrupt.md",
+    "PicoCTF/Tarea 4 - Crypto",
     "PicoCTF/Forensic 2/2 - WhitePages.md",
     "PicoCTF/Forensic 2/1 - m00nwalk.md",
-    "PicoCTF/Forensic 2/3 - c0rrupt.md",
     "PicoCTF/Forensic 2/4 - like1000.md",
     "PicoCTF/Forensic 2/5 - shark on wire 2.md",
-    "README.md",
     "PicoCTF/Primer Parcial - Parte 2 - Web/Java Code Analysis.md",
     "PicoCTF/Forensic 2",
     "PicoCTF/Primer Parcial - Parte 2 - Web/SSTI2.md",
@@ -186,25 +197,14 @@
     "PicoCTF/Primer Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
     "PicoCTF/Primer Parcial - Parte 1 - General Skills/FANTASY CTF.md",
     "PicoCTF/Primer Parcial - Parte 1 - General Skills/flag_shop.md",
-    "PicoCTF/Primer Parcial - Parte 1 - General Skills/HashingJobApp.md",
-    "PicoCTF/Primer Parcial - Parte 1 - General Skills/Python Wrangling.md",
-    "PicoCTF/Primer Parcial - Parte 1 - General Skills/Rust fixme 1.md",
-    "PicoCTF/Primer Parcial - Parte 1 - General Skills/Rust fixme 2.md",
-    "PicoCTF/Primer Parcial - Parte 1 - General Skills/Rust fixme 3.md",
-    "PicoCTF/Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
-    "PicoCTF/Primer Parcial - Parte 1 - General Skills/Specialer.md",
     "PicoCTF/Primer Parcial - Parte 2 - Web",
-    "PicoCTF/Primer Parcial - Parte 2 - Web.md",
-    "PicoCTF/Tarea 1 - General skills/10 - ASCII Numbers.md",
     "PicoCTF/Primer Parcial - Parte 1 - General Skills",
-    "PicoCTF/Tarea 1 - General skills/9 - binhexa.md",
     "PicoCTF/Tarea 2 - Web",
     "PicoCTF/Actividad 12 - picoCTF - Forensic 1",
     "PicoCTF/Actividad 11 - picoCTF Web - Parte 4",
     "PicoCTF/Actividad 10 - picoCTF Web 3",
     "PicoCTF/Actividad 09 - picoCTF Web 2",
     "PicoCTF/Actividad 08 - picoCTF Web 1/Untitled",
-    "Untitled",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
