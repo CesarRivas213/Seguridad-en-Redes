@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 4 - Crypto/Vigenere.md",
+                "file": "PicoCTF/Actividad 19 - Retos Crypto 4/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vigenere"
+              "title": "ReadMyCert"
             }
           }
         ]
@@ -169,6 +169,14 @@
   },
   "active": "171239a4f2214dbf",
   "lastOpenFiles": [
+    "PicoCTF/Actividad 19 - Retos Crypto 4/Pixelated.md",
+    "PicoCTF/Actividad 19 - Retos Crypto 4/HideToSee.md",
+    "PicoCTF/Actividad 19 - Retos Crypto 4/flags.md",
+    "PicoCTF/Actividad 19 - Retos Crypto 4/basic-mod1.md",
+    "PicoCTF/Actividad 19 - Retos Crypto 4/ReadMyCert.md",
+    "README.md",
+    "PicoCTF/Tarea 4 - Crypto/Vigenere.md",
+    "PicoCTF/Actividad 19 - Retos Crypto 4",
     "PicoCTF/Tarea 4 - Crypto/substitution2.md",
     "PicoCTF/Tarea 4 - Crypto/substitution1.md",
     "PicoCTF/Tarea 4 - Crypto/substitution0.md",
@@ -178,8 +186,6 @@
     "PicoCTF/Tarea 4 - Crypto/EVEN RSA CAN BE BROKEN.md",
     "PicoCTF/Tarea 4 - Crypto/credstuff.md",
     "PicoCTF/Tarea 4 - Crypto/Crack the Power.md",
-    "PicoCTF/Tarea 4 - Crypto/Vigenere.md",
-    "README.md",
     "PicoCTF/Forensic 2/3 - c0rrupt.md",
     "PicoCTF/Tarea 4 - Crypto",
     "PicoCTF/Forensic 2/2 - WhitePages.md",
@@ -192,11 +198,6 @@
     "PicoCTF/Primer Parcial - Parte 2 - Web/SQL Direct.md",
     "PicoCTF/Primer Parcial - Parte 2 - Web/SSTI1.md",
     "PicoCTF/Primer Parcial - Parte 2 - Web/findme.md",
-    "PicoCTF/Primer Parcial - Parte 2 - Web/Cookie Monster Secret Recipe.md",
-    "PicoCTF/Primer Parcial - Parte 2 - Web/Bookmarklet.md",
-    "PicoCTF/Primer Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
-    "PicoCTF/Primer Parcial - Parte 1 - General Skills/FANTASY CTF.md",
-    "PicoCTF/Primer Parcial - Parte 1 - General Skills/flag_shop.md",
     "PicoCTF/Primer Parcial - Parte 2 - Web",
     "PicoCTF/Primer Parcial - Parte 1 - General Skills",
     "PicoCTF/Tarea 2 - Web",
@@ -204,7 +205,6 @@
     "PicoCTF/Actividad 11 - picoCTF Web - Parte 4",
     "PicoCTF/Actividad 10 - picoCTF Web 3",
     "PicoCTF/Actividad 09 - picoCTF Web 2",
-    "PicoCTF/Actividad 08 - picoCTF Web 1/Untitled",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
