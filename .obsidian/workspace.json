@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Actividad 18 - Retos Crypto 3/b00tl3gRSA2.md",
+                "file": "PicoCTF/Actividad 17 - Retos Crypto 2/rsa pop quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b00tl3gRSA2"
+              "title": "rsa pop quiz"
             }
           }
         ]
@@ -169,11 +169,13 @@
   },
   "active": "171239a4f2214dbf",
   "lastOpenFiles": [
+    "README.md",
+    "PicoCTF/Actividad 17 - Retos Crypto 2/rsa pop quiz.md",
+    "PicoCTF/Actividad 18 - Retos Crypto 3/b00tl3gRSA2.md",
+    "PicoCTF/Actividad 17 - Retos Crypto 2",
     "PicoCTF/Actividad 18 - Retos Crypto 3/b00tl3gRSA3.md",
     "PicoCTF/Actividad 18 - Retos Crypto 3/Mini RSA.md",
     "PicoCTF/Actividad 18 - Retos Crypto 3/Mind your Ps and Qs.md",
-    "PicoCTF/Actividad 18 - Retos Crypto 3/b00tl3gRSA2.md",
-    "README.md",
     "PicoCTF/Actividad 19 - Retos Crypto 4/ReadMyCert.md",
     "PicoCTF/Actividad 18 - Retos Crypto 3",
     "PicoCTF/Actividad 19 - Retos Crypto 4/Pixelated.md",
@@ -197,14 +199,12 @@
     "PicoCTF/Forensic 2/1 - m00nwalk.md",
     "PicoCTF/Forensic 2/4 - like1000.md",
     "PicoCTF/Forensic 2/5 - shark on wire 2.md",
-    "PicoCTF/Primer Parcial - Parte 2 - Web/Java Code Analysis.md",
     "PicoCTF/Forensic 2",
     "PicoCTF/Primer Parcial - Parte 2 - Web",
     "PicoCTF/Primer Parcial - Parte 1 - General Skills",
     "PicoCTF/Tarea 2 - Web",
     "PicoCTF/Actividad 12 - picoCTF - Forensic 1",
     "PicoCTF/Actividad 11 - picoCTF Web - Parte 4",
-    "PicoCTF/Actividad 10 - picoCTF Web 3",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
